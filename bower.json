@@ -1,0 +1,22 @@
+{
+  "name": "w3css-themes",
+  "homepage": "https://github.com/betofloresbaca/w3css-themes",
+  "authors": [
+    "Luis Alberto Flores Baca <betofloresbaca@gmail.com>"
+  ],
+  "description": "Color themes for W3 CSS library.",
+  "main": "",
+  "keywords": [
+    "w3",
+    "css",
+    "themes"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
